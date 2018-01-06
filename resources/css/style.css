@@ -1,0 +1,13 @@
+.page-break {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+header {
+  background-image: url(../images/the-flatiron-building.png);
+}
+body {
+  text-align: center;
+}
+footer {
+  text-align: left;
+}
