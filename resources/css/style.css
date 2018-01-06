@@ -1,13 +1,28 @@
-.page-break {
+
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+header, .page-break {
   background-image: url(../images/the-flatiron-building.png);
   color: white;
 }
-header {
-  background-image: url(../images/the-flatiron-building.png);
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
-body {
-  text-align: center;
+a {
+    font-size: 18px;
+    color: white;
 }
+
+
 footer {
   text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+.copyright {
+    font-size: 11px;
+
 }
